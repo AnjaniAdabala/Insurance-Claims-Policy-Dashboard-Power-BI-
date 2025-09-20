@@ -1,4 +1,4 @@
-📊 Power BI Project – Insurance Claims & Policies Analysis
+📊 Insurance Claims & Policy Dashboard (Power BI)
 📌 Project Overview
 
 This Power BI project provides a comprehensive analysis of insurance policies, premiums, claims, and customer demographics for Prism Insurance Pvt Ltd. The goal of the dashboard is to help stakeholders track policy performance, claims settlement, customer segmentation, and financial health through interactive visuals and KPIs.
